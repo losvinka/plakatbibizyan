@@ -1,0 +1,11 @@
+* {
+  color: white;
+  box-sizing: border-box;
+}
+body {
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  font-family: "AdventureIndianaJones";
+  background-color: black;
+}
