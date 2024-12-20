@@ -1,5 +1,4 @@
 * {
-  color: white;
   box-sizing: border-box;
 }
 body {
@@ -8,4 +7,18 @@ body {
   margin: 0 auto;
   font-family: "AdventureIndianaJones";
   background-color: black;
+}
+.block-1 {
+  width: 1220px;
+  height: 457px;
+}
+.text-1 {
+  width: 1220px;
+  height: 457px;
+  font-size: 230px;
+  margin: 20px 0;
+  color: black;
+  position: absolute;
+  top: -250px;
+  left: 10px;
 }
